@@ -1,4 +1,4 @@
-steps to do 
+steps to do transulator
 ✅ Step 1: Create Azure AI Studio
 Go to Azure AI Studio.
 
