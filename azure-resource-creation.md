@@ -12,4 +12,4 @@ To view the full resource creation guide with visuals and steps, click the link 
 
 
 
-Add Azure resource creation guide link to Notion
+
